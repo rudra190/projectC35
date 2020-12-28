@@ -1,0 +1,1 @@
+var getFoodStock, updateFoodStock, deductFood
